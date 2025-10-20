@@ -1,82 +1,76 @@
-<br clear="both">
-
-<div align="center">
-  <img height="300" src="https://i.postimg.cc/gJWgc4Jm/Screenshot-2025-07-15-191306.png"  />
-</div>
+<h1 align="left">About Me</h1>
 
 ###
 
-<p align="center">Hi there! I'm Revananda, a computer enginner student passionate about programming and web development. I'm currently learning to become a Full-Stack Developer, and I enjoy building personal projects to sharpen my skills.</p>
-
-###
-
-<h2 align="left">My main interests:</h2>
+<p align="left">Hi there! I'm Revananda, a computer engineering student passionate about programming, web development, and cloud technologies. I'm currently learning to become a Full-Stack Developer, with a strong interest in building scalable and efficient web applications. I also enjoy exploring DevOps practices and Cloud Engineering, automating workflows, deploying applications, and managing infrastructure on cloud platforms. In my free time, I love working on personal projects to sharpen my skills, experiment with new technologies, and contribute to open-source projects.</p>
 
 ###
 
 <br clear="both">
 
-<p align="left">🌐 Web Development (Frontend & Backend)<br>🐧 Linux & Open Source Technologies<br>🎨 UI/UX Design & Human-Centered Design<br>📈 Productivity & Continuous Self-Improvement</p>
-
-###
-
-<h2 align="left">Currently learning:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=gcp" height="25" alt="googlecloud logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="25" alt="tailwindcss logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ts" height="25" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=sass" height="25" alt="sass logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=linux" height="25" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="25" alt="gitlab logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="25" alt="firebase logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ai" height="25" alt="adobeillustrator logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="25" alt="arduino logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=css" height="25" alt="css logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=figma" height="25" alt="figma logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="25" alt="flutter logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=git" height="25" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="25" alt="kubernetes logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="25" alt="powershell logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="25" alt="supabase logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="25" alt="stackoverflow logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="25" alt="adobeillustrator logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/CoffeeScript-2F2625?logo=coffeescript&logoColor=white&style=for-the-badge" height="25" alt="coffeescript logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="25" alt="neovim logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="25" alt="notion logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="25" alt="npm logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=white&style=for-the-badge" height="25" alt="opera logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Stack Overflow-F58025?logo=stackoverflow&logoColor=black&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="25" alt="ubuntu logo"  />
-</div>
-
-###
-
-<h2 align="left">Feel free to reach out:</h2>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="42" height="30" alt="stackoverflow logo"  />
+  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RevanandaXD&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="121" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=RevanandaXD&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="125" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RevanandaXD&radius=12&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RevanandaXD/RevanandaXD/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RevanandaXD/RevanandaXD/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RevanandaXD/RevanandaXD/output/pacman-contribution-graph.svg">
+</picture>
+
+###
