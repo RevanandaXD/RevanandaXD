@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/NGRVNQ9q/ezdTtr.gif"  />
+  <img height="300" width="500" src="https://i.postimg.cc/NGRVNQ9q/ezdTtr.gif" autoplay />
 </div>
 
 ###
