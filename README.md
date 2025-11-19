@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="500" src="https://i.postimg.cc/h4wttBqP/lilith-the-noexistencen-of-you-and-me.gif" autoplay />
+  <img height="500" width="500" src="https://i.postimg.cc/h4wttBqP/lilith-the-noexistencen-of-you-and-me.gif" autoplay />
 </div>
 
 ###
