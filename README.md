@@ -1,5 +1,5 @@
 ###
-<img src="https://media.tenor.com/<ID-GIF>.gif" width="100%" />
+<img src="https://media1.tenor.com/m/zP_4kBynHCcAAAAd/my-kisah-lilith.gif" width="100%" />
 
 <h1 align="left">About Me</h1>
 
