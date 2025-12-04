@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;DevOps+Enthusiast;Cloud+Engineering+Explorer)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;DevOps+Enthusiast;Cloud+Engineering+Explorer)
   
 </div>
 
@@ -10,10 +10,9 @@
 
 I'm passionate about building **scalable web applications** and exploring the world of **cloud infrastructure**. Currently focusing on becoming a **Backend Developer** while diving deep into **DevOps practices** and **Cloud Engineering**.
 
-- 🔭 Currently working on backend systems and cloud infrastructure
+- 🔭 Currently working on frontend dan backend system
 - 🌱 Learning advanced DevOps practices and cloud-native technologies
 - 💡 Interested in distributed systems, microservices, and automation
-- ⚡ Fun fact: I love optimizing performance and building robust APIs
 
 ---
 
@@ -42,17 +41,13 @@ I'm passionate about building **scalable web applications** and exploring the wo
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </div>
 
 ### DevOps & Cloud
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </div>
 
 ### Tools & Others
@@ -68,8 +63,8 @@ I'm passionate about building **scalable web applications** and exploring the wo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RevanandaXD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RevanandaXD&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <a href="https://stats.hyo.dev/stats/revanandaxd"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=revanandaxd" width="600" /></a>
+  <a href="https://stats.hyo.dev/stats/revanandaxd"><img src="https://stats.hyo.dev/api/github-trophies?login=revanandaxd" width="600" /></a>
 </div>
 
 <div align="center">
