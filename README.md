@@ -1,123 +1,69 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     ██████╗ ███████╗██╗   ██╗ █████╗ ███╗   ██╗ █████╗      ║
-║     ██╔══██╗██╔════╝██║   ██║██╔══██╗████╗  ██║██╔══██╗     ║
-║     ██████╔╝█████╗  ██║   ██║███████║██╔██╗ ██║███████║     ║
-║     ██╔══██╗██╔══╝  ╚██╗ ██╔╝██╔══██║██║╚██╗██║██╔══██║     ║
-║     ██║  ██║███████╗ ╚████╔╝ ██║  ██║██║ ╚████║██║  ██║     ║
-║     ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝     ║
-║                                                              ║
-║              computer engineering • full-stack dev          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+# Hi, I'm Revananda 👋
+
+### Computer Engineering Student | Full-Stack Developer | Cloud Enthusiast
 
 </div>
 
-<div align="center">
-  
-### ~ $ cat about.txt
+## 🚀 About Me
 
-*building scalable web apps • exploring cloud infrastructure • automating everything*
+I'm passionate about building scalable web applications and exploring the world of cloud infrastructure. Currently focusing on becoming a Full-Stack Developer while diving deep into DevOps practices and Cloud Engineering.
 
-</div>
+- 🔭 Building web applications with modern tech stacks
+- 🌱 Learning cloud architecture and infrastructure automation
+- 💡 Interested in open source contributions
+- ⚡ Love experimenting with new technologies
 
----
+## 🛠️ Tech Stack
 
-### 📦 tech stack
+**Languages**
+- JavaScript/TypeScript
+- Python
+- Go
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Frontend**
+- React & Next.js
+- Tailwind CSS
+- HTML/CSS
 
-**💻 development**
-```yaml
-languages:
-  • typescript/javascript
-  • python
-  • go
+**Backend**
+- Php & Laravel
+- Node.js & Express
+- REST APIs
 
-frontend:
-  • react • next.js
-  • tailwind css
+**Cloud & DevOps**
+- AWS/GCP
+- GitHub Actions
+- CI/CD
 
-backend:
-  • node.js • express
-  • rest api • graphql
-```
+**Tools**
+- Git & GitHub
+- Linux
+- VS Code/Neovim
 
-</td>
-<td width="50%" valign="top">
-
-**☁️ cloud & devops**
-```yaml
-containerization:
-  • docker
-  • kubernetes
-
-cloud platforms:
-  • aws • gcp
-
-automation:
-  • terraform
-  • github actions
-  • ci/cd pipelines
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### 🎯 current focus
-
-```bash
-❯ learning full-stack development      ████████████░░░░░░░░  60%
-❯ exploring cloud architecture         █████████░░░░░░░░░░░  45%
-❯ contributing to open source          ██████░░░░░░░░░░░░░░  30%
-```
-
----
-
-### 📊 github stats
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=revananda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89ddff&icon_color=89ddff&text_color=c3e88d" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=revananda&theme=tokyonight&hide_border=true&background=0d1117&stroke=89ddff&ring=89ddff&fire=ffcb6b&currStreakLabel=c3e88d&sideLabels=c3e88d" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=revananda&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=89ddff&line=89ddff&point=c3e88d" />
-
-</div>
-
----
-
-### 🔗 connect
+## 📈 GitHub Stats
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=89ddff)](https://github.com/revananda)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=89ddff)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=89ddff)](https://your-website.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RevanandaK9&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RevanandaK9&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RevanandaK9&theme=radical&hide_border=true)
 
 </div>
+
+## 📫 Get in Touch
+
+- GitHub: [@revananda](https://github.com/RevanandaK9)
+- Email: revanandaislamipasha@gmail.com
+- Portfolio: no yet
 
 ---
 
 <div align="center">
 
-```
-╭─────────────────────────────────────────╮
-│  "code is like humor.                   │
-│   when you have to explain it,          │
-│   it's bad."                             │
-╰─────────────────────────────────────────╯
-```
-
-*built with* 💙 *and* ☕ *on arch btw*
+*Building the future, one commit at a time* 💻
 
 </div>
