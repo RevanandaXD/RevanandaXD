@@ -1,71 +1,80 @@
-###
-<img src="https://media1.tenor.com/m/zP_4kBynHCcAAAAd/my-kisah-lilith.gif" width="100%" />
+# revananda
 
-<h1 align="left">About Me</h1>
+```
+┌─────────────────────────────────────────────┐
+│  computer engineering student               │
+│  full-stack developer in progress           │
+│  cloud & devops enthusiast                  │
+└─────────────────────────────────────────────┘
+```
 
-###
+## $ whoami
 
-<p align="left">Hi there! I'm Revananda, a computer engineering student passionate about programming, web development, and cloud technologies. I'm currently learning to become a Full-Stack Developer, with a strong interest in building scalable and efficient web applications. I also enjoy exploring DevOps practices and Cloud Engineering, automating workflows, deploying applications, and managing infrastructure on cloud platforms. In my free time, I love working on personal projects to sharpen my skills, experiment with new technologies, and contribute to open-source projects.</p>
+currently learning to build scalable web applications and exploring the intersection of development and operations. passionate about automation, infrastructure, and clean code.
 
-###
+## $ stack
 
-<br clear="both">
+```yaml
+languages:
+  - javascript/typescript
+  - python
+  - go
+  
+web:
+  - react/next.js
+  - node.js
+  - tailwind css
+  
+cloud & devops:
+  - docker
+  - kubernetes
+  - aws/gcp
+  - terraform
+  - github actions
+  
+tools:
+  - git
+  - linux
+  - vim/neovim
+  - hyprland
+```
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=gcp" height="25" alt="googlecloud logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="25" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="25" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=sass" height="25" alt="sass logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=linux" height="25" alt="linux logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="25" alt="gitlab logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="25" alt="firebase logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ai" height="25" alt="adobeillustrator logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="25" alt="arduino logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="25" alt="css logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=figma" height="25" alt="figma logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="25" alt="flutter logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="25" alt="git logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="25" alt="kubernetes logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="25" alt="powershell logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="25" alt="supabase logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="25" alt="stackoverflow logo"  />
-</div>
+## $ current_focus
 
-###
+```bash
+[████████░░] learning full-stack development
+[██████░░░░] exploring cloud architecture
+[███████░░░] contributing to open source
+```
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
+## $ projects
 
-###
+working on personal projects to sharpen skills and experiment with new technologies. check pinned repositories below.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RevanandaXD&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="121" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=RevanandaXD&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="125" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RevanandaXD&radius=12&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
-</div>
+## $ connect
 
-###
+```
+├─ github: @revananda
+├─ email: [your-email]
+└─ web: [your-website]
+```
+
+---
+
+```
+~ $ neofetch
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=revananda&show_icons=true&theme=transparent&hide_border=true&text_color=c5c8c6&icon_color=81a2be&title_color=81a2be" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revananda&theme=dark&hide_border=true&background=00000000&stroke=c5c8c6&ring=81a2be&fire=cc6666&currStreakLabel=c5c8c6" alt="streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>built with </i>❤️<i> and </i>☕
+</p>
