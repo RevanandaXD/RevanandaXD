@@ -166,12 +166,13 @@ fun_fact:     Not fun at all, actually
 
 <div align="center">
 
-<a href="https://github.com/RevanandaXD/Kitsui-cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RevanandaXD&repo=Kitsui-cli&theme=tokyonight&hide_border=false" />
-</a>
-<a href="https://github.com/RevanandaXD/blogger-dev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RevanandaXD&repo=blogger-dev&theme=tokyonight&hide_border=false" />
-</a>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RevanandaXD.RevanandaXD&"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/RevanandaXD/RevanandaXD/output/snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -184,17 +185,6 @@ fun_fact:     Not fun at all, actually
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=RevanandaXD&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=RevanandaXD&theme=tokyonight&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RevanandaXD&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
 
 ---
 
