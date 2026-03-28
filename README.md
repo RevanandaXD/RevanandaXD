@@ -113,29 +113,9 @@ fun_fact:     Not fun at all, actually
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=RevanandaXD&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=RevanandaXD&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-</div>
-
 ---
 
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=RevanandaXD&icon=2&color=3)](https://visitcount.itsvg.in)
 
 *Made with too much caffeine and not enough sleep.*
 
