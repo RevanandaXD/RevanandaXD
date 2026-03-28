@@ -172,8 +172,6 @@ fun_fact:     Not fun at all, actually
 
 ###
 
-<img src="https://raw.githubusercontent.com/RevanandaXD/RevanandaXD/output/snake.svg" alt="Snake animation" />
-
 </div>
 
 <br/>
@@ -182,10 +180,5 @@ fun_fact:     Not fun at all, actually
 |---|---|---|
 | [🐱 Kitsui CLI](https://github.com/RevanandaXD/Kitsui-cli) | Command line helper built with Node.js | Node.js · CLI |
 | [📝 DevJourney Blogger](https://github.com/RevanandaXD/blogger-dev) | Personal blog built to learn React | React · Vite |
-
----
-
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%"/>
