@@ -1,3 +1,7 @@
+
+[![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=RevanandaXD&theme=crt)](https://github.com/USERNAME)
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Revananda%20Islami%20Pasha&fontSize=40&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Student%20%C2%B7%20Full-Stack%20Dev%20in%20Progress%20%C2%B7%20Manga%20Enjoyer&descAlignY=55&descColor=a8b2d8" width="100%"/>
