@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="banner.png" alt="Banner" width="100%" />
+<img src="Banner.png" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🎓 D3 Informatics Engineering Student at Politeknik Negeri Semarang (POLINES)
