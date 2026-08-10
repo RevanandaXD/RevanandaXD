@@ -9,15 +9,13 @@
     <img src="https://img.shields.io/github/stars/RevanandaXD?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=161B22" alt="GitHub Stars"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=RevanandaXD&label=Profile+Views&color=161B22&style=for-the-badge" alt="Profile Views"/>
-
-  <img src="Banner.png" alt="Banner" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=RevanandaXD&label=Profile+Views&color=0D1117&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 
-<!-- DETAILED METRICS -->
+<br />
 
-## Metrics
+<!-- DETAILED METRICS -->
 
 <table>
   <tr>
@@ -77,7 +75,7 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="left" width="230px">
       <b>Languages</b>
     </td>
     <td>
@@ -88,7 +86,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="left">
       <b>Frontend</b>
     </td>
     <td>
@@ -98,7 +96,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="left">
       <b>Backend</b>
     </td>
     <td>
@@ -108,7 +106,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="left">
       <b>Database</b>
     </td>
     <td>
@@ -117,7 +115,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="left">
       <b>DevOps &<br/>Cloud</b>
     </td>
     <td>
@@ -128,7 +126,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="left">
       <b>Tools</b>
     </td>
     <td>
