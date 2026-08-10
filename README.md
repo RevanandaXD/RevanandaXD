@@ -1,15 +1,8 @@
-
 <!-- HEADER -->
 
 <div align="center">
 
   <img src="Banner.png" alt="Banner" width="100%" />
-
-  <br/>
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Software+Engineer+%7C+Backend+Developer;Cloud+Computing+%7C+DevOps+Enthusiast)](https://git.io/typing-svg)
-
-  <br/>
 
   <!-- Badges -->
   <a href="https://github.com/RevanandaXD">
@@ -30,13 +23,15 @@
 
 </div>
 
+<!-- GENERAL METRICS -->
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="General Metrics" width="100%"/>
+</p>
+
 <!-- ABOUT ME -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/> &nbsp;About Me
-
-<table>
-  <tr>
-    <td width="55%">
+## 🧑‍💻 &nbsp;About Me
 
 &nbsp; 🎓 &nbsp; **D3 Informatics Engineering** — Politeknik Negeri Semarang (POLINES)
 
@@ -58,23 +53,16 @@
 
 &nbsp; 📚 &nbsp; Always learning new technologies & best practices
 
-  </td>
-    <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=RevanandaXD&show_icons=true&theme=transparent&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=00000000&ring_color=00FFFF&cache_seconds=7200" alt="GitHub Stats" width="100%"/>
-    </td>
-  </tr>
-</table>
-
 <details>
 <summary><b>🧠 My Focus Areas</b></summary>
 <br/>
 
-| Area | Description |
-|:-----|:------------|
-| 🌐 **Web Development** | Full-stack web apps with modern JS/TS frameworks |
-| ☁️ **Cloud Engineering** | Google Cloud Platform, serverless architectures |
-| ⚙️ **DevOps** | CI/CD pipelines, Docker, infrastructure automation |
-| 🤖 **AI/ML Integration** | RAG pipelines, LLM integration in applications |
+| Area                     | Description                                        |
+| :----------------------- | :------------------------------------------------- |
+| 🌐 **Web Development**   | Full-stack web apps with modern JS/TS frameworks   |
+| ☁️ **Cloud Engineering** | Google Cloud Platform, serverless architectures    |
+| ⚙️ **DevOps**            | CI/CD pipelines, Docker, infrastructure automation |
+| 🤖 **AI/ML Integration** | RAG pipelines, LLM integration in applications     |
 
 </details>
 
@@ -82,7 +70,7 @@
 
 <!-- TECH STACK -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 <table>
   <tr>
@@ -160,85 +148,72 @@
 
 <!-- GITHUB STATS -->
 
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> &nbsp;GitHub Analytics
+## 📊 &nbsp;GitHub Analytics
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=RevanandaXD&show_icons=true&theme=transparent&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117&ring_color=00FFFF&cache_seconds=7200" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RevanandaXD&show_icons=true&theme=dark&hide_border=true&border_radius=10" alt="GitHub Stats" width="100%"/>
       <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevanandaXD&langs_count=8&layout=compact&theme=transparent&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117&cache_seconds=7200" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RevanandaXD&langs_count=8&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Top Languages" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=RevanandaXD&theme=transparent&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&background=0D1117&cache_seconds=86400" alt="GitHub Streak" width="100%"/>
-      <br/><br/>
-      <img src="https://github-contributor-stats.vercel.app/api?username=RevanandaXD&limit=5&theme=transparent&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117&combine_all_yearly_contributions=true&cache_seconds=7200" alt="Top Contributed Repos" width="100%"/>
+      <img src="https://streak-stats.demolab.com/?user=RevanandaXD&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
     </td>
   </tr>
 </table>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RevanandaXD&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=00FFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RevanandaXD&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </p>
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RevanandaXD&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=86400" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RevanandaXD&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%"/>
 </p>
 
 ---
 
 <!-- WAKATIME STATS -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" width="30"/> &nbsp;WakaTime Coding Stats
+## ⏱️ &nbsp;WakaTime Coding Stats
 
 > 📊 **Weekly development breakdown** — auto-updated daily via GitHub Actions
 
 <!--START_SECTION:waka-->
-**🔧 Setup Required:** Add your `WAKATIME_API_KEY` secret and trigger the workflow manually to populate this section.
 <!--END_SECTION:waka-->
 
 ---
 
 <!-- LOWLIGHTER METRICS -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="30"/> &nbsp;Detailed Metrics
+## 💎 &nbsp;Detailed Metrics
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <h4>📅 Isocalendar</h4>
+      <b>📅 Isocalendar</b><br/><br/>
       <img src="./metrics.plugin.isocalendar.svg" alt="Isocalendar" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <h4>🗂️ Languages Breakdown</h4>
+      <b>🗂️ Languages Breakdown</b><br/><br/>
       <img src="./metrics.plugin.languages.svg" alt="Languages" width="100%"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h4>⏱️ WakaTime Metrics</h4>
+      <b>⏱️ WakaTime Metrics</b><br/><br/>
       <img src="./metrics.plugin.wakatime.svg" alt="WakaTime" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h4>🏆 General Metrics Overview</h4>
-      <img src="./github-metrics.svg" alt="General Metrics" width="100%"/>
     </td>
   </tr>
 </table>
 
-> [!NOTE]
-> Metrics are generated daily via [lowlighter/metrics](https://github.com/lowlighter/metrics) GitHub Action. SVGs will appear after the first workflow run.
-
 ---
->
+
 <!-- CONNECT WITH ME -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="30"/> &nbsp;Connect with Me
+## 🔗 &nbsp;Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/revananda-islami-pasha-367422350/">
@@ -263,10 +238,6 @@
 <!-- FOOTER -->
 
 <div align="center">
-
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-
-  <br/><br/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFFF&height=120&section=footer" width="100%"/>
 
