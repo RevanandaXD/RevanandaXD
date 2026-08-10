@@ -9,8 +9,7 @@
     <img src="https://img.shields.io/github/stars/RevanandaXD?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=161B22" alt="GitHub Stars"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=RevanandaXD&label=Profile+Views&color=00FFFF&style=for-the-badge" alt="Profile Views"/>
-  [![Metrics](https://github.com/RevanandaXD/RevanandaXD/actions/workflows/metrics.yml/badge.svg)](https://github.com/RevanandaXD/RevanandaXD/actions/workflows/metrics.yml)
+  <img src="https://komarev.com/ghpvc/?username=RevanandaXD&label=Profile+Views&color=161B22&style=for-the-badge" alt="Profile Views"/>
 
   <img src="Banner.png" alt="Banner" width="100%" />
 </div>
