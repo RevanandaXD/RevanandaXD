@@ -77,7 +77,7 @@
     <td align="center" width="96">
       <b>Languages</b>
     </td>
-    <td>
+    <td width="100%">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -88,7 +88,7 @@
     <td align="center">
       <b>Frontend</b>
     </td>
-    <td>
+    <td width="100%">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -101,7 +101,7 @@
     <td align="center">
       <b>Backend</b>
     </td>
-    <td>
+    <td width="100%">
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -112,7 +112,7 @@
     <td align="center">
       <b>Database</b>
     </td>
-    <td>
+    <td width="100%">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
@@ -122,7 +122,7 @@
     <td align="center">
       <b>DevOps &<br/>Cloud</b>
     </td>
-    <td>
+    <td width="100%">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
@@ -134,7 +134,7 @@
     <td align="center">
       <b>Tools</b>
     </td>
-    <td>
+    <td width="100%">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
@@ -182,17 +182,17 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <b>Isocalendar</b><br/><br/>
-      <img src="./metrics.plugin.isocalendar.svg" alt="Isocalendar" width="100%"/>
+      <b>📅 Contribution Calendar</b><br/><br/>
+      <img src="./metrics.plugin.isocalendar.svg" alt="Contribution Calendar" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <b>Languages Breakdown</b><br/><br/>
-      <img src="./metrics.plugin.languages.svg" alt="Languages" width="100%"/>
+      <b>🔤 Most Used Languages</b><br/><br/>
+      <img src="./metrics.plugin.languages.svg" alt="Most Used Languages" width="100%"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <b>WakaTime Metrics</b><br/><br/>
+      <b>⏱️ WakaTime Metrics</b><br/><br/>
       <img src="./metrics.plugin.wakatime.svg" alt="WakaTime" width="100%"/>
     </td>
   </tr>
