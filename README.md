@@ -4,6 +4,9 @@
 
   <img src="Banner.png" alt="Banner" width="100%" />
 
+  <h1>Revananda Islami Pasha</h1>
+  <h2>Web DevelopeR ||  Cloud Engineer  || DevOps</h2>
+
   <!-- Badges -->
   <a href="https://github.com/RevanandaXD">
     <img src="https://img.shields.io/github/followers/RevanandaXD?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=161B22" alt="GitHub Followers"/>
@@ -25,8 +28,8 @@
 
 <!-- GENERAL METRICS -->
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="General Metrics" width="400px" />
+<p align="left">
+  <img src="./github-metrics.svg" alt="General Metrics" width="100%" />
 </p>
 
 <!-- ABOUT ME -->
@@ -88,7 +91,7 @@
     <td align="center">
       <b>Frontend</b>
     </td>
-    <td width="100%">
+    <td>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -101,7 +104,7 @@
     <td align="center">
       <b>Backend</b>
     </td>
-    <td width="100%">
+    <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -112,14 +115,14 @@
     <td align="center">
       <b>Database</b>
     </td>
-    <td width="100%">
+    <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <b>DevOps &<br/>Cloud</b>
     </td>
     <td width="100%">
@@ -134,7 +137,7 @@
     <td align="center">
       <b>Tools</b>
     </td>
-    <td width="100%">
+    <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
