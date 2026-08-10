@@ -1,13 +1,6 @@
 <!-- HEADER -->
 
 <div align="center">
-
-  <img src="Banner.png" alt="Banner" width="100%" />
-
-  <h1>Revananda Islami Pasha</h1>
-  <p><b>Backend Developer · Cloud Engineer · DevOps</b></p>
-
-  <!-- Badges -->
   <a href="https://github.com/RevanandaXD">
     <img src="https://img.shields.io/github/followers/RevanandaXD?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=161B22" alt="GitHub Followers"/>
   </a>
@@ -17,15 +10,11 @@
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=RevanandaXD&label=Profile+Views&color=00FFFF&style=for-the-badge" alt="Profile Views"/>
-
-  <br/>
-
   [![Metrics](https://github.com/RevanandaXD/RevanandaXD/actions/workflows/metrics.yml/badge.svg)](https://github.com/RevanandaXD/RevanandaXD/actions/workflows/metrics.yml)
-  [![WakaTime](https://github.com/RevanandaXD/RevanandaXD/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/RevanandaXD/RevanandaXD/actions/workflows/waka-readme.yml)
 
+  <img src="Banner.png" alt="Banner" width="100%" />
 </div>
 
----
 
 <!-- DETAILED METRICS -->
 
