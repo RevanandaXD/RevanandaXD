@@ -18,8 +18,13 @@
   <br/>
 
   <!-- Workflow Status Badges -->
-  [![Metrics](https://github.com/RevanandaXD/RevanandaXD/actions/workflows/metrics.yml/badge.svg)](https://github.com/RevanandaXD/RevanandaXD/actions/workflows/metrics.yml)
-  [![WakaTime](https://github.com/RevanandaXD/RevanandaXD/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/RevanandaXD/RevanandaXD/actions/workflows/waka-readme.yml)
+  <a href="https://github.com/RevanandaXD/RevanandaXD/actions/workflows/metrics.yml">
+    <img src="https://github.com/RevanandaXD/RevanandaXD/actions/workflows/metrics.yml/badge.svg" width="120">
+  </a>
+
+  <a href="https://github.com/RevanandaXD/RevanandaXD/actions/workflows/waka-readme.yml">
+    <img src="https://github.com/RevanandaXD/RevanandaXD/actions/workflows/waka-readme.yml/badge.svg" width="120">
+  </a>
 
 </div>
 
