@@ -18,20 +18,15 @@
   <br/>
 
   <!-- Workflow Status Badges -->
-  <a href="https://github.com/RevanandaXD/RevanandaXD/actions/workflows/metrics.yml">
-    <img src="https://github.com/RevanandaXD/RevanandaXD/actions/workflows/metrics.yml/badge.svg" width="120">
-  </a>
-
-  <a href="https://github.com/RevanandaXD/RevanandaXD/actions/workflows/waka-readme.yml">
-    <img src="https://github.com/RevanandaXD/RevanandaXD/actions/workflows/waka-readme.yml/badge.svg" width="120">
-  </a>
+  [![Metrics](https://github.com/RevanandaXD/RevanandaXD/actions/workflows/metrics.yml/badge.svg)](https://github.com/RevanandaXD/RevanandaXD/actions/workflows/metrics.yml)
+  [![WakaTime](https://github.com/RevanandaXD/RevanandaXD/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/RevanandaXD/RevanandaXD/actions/workflows/waka-readme.yml)
 
 </div>
 
 <!-- GENERAL METRICS -->
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="General Metrics" width="100%"/>
+  <img src="./github-metrics.svg" alt="General Metrics" width="400px" />
 </p>
 
 <!-- ABOUT ME -->
@@ -178,18 +173,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RevanandaXD&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%"/>
 </p>
 
----
 
-<!-- WAKATIME STATS -->
-
-## ⏱️ &nbsp;WakaTime Coding Stats
-
-> 📊 **Weekly development breakdown** — auto-updated daily via GitHub Actions
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 
 <!-- LOWLIGHTER METRICS -->
 
@@ -198,17 +182,17 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <b>📅 Isocalendar</b><br/><br/>
+      <b>Isocalendar</b><br/><br/>
       <img src="./metrics.plugin.isocalendar.svg" alt="Isocalendar" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <b>🗂️ Languages Breakdown</b><br/><br/>
+      <b>Languages Breakdown</b><br/><br/>
       <img src="./metrics.plugin.languages.svg" alt="Languages" width="100%"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <b>⏱️ WakaTime Metrics</b><br/><br/>
+      <b>WakaTime Metrics</b><br/><br/>
       <img src="./metrics.plugin.wakatime.svg" alt="WakaTime" width="100%"/>
     </td>
   </tr>
@@ -238,12 +222,3 @@
   </a>
 </p>
 
----
-
-<!-- FOOTER -->
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFFF&height=120&section=footer" width="100%"/>
-
-</div>
