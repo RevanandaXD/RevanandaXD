@@ -75,7 +75,7 @@
 
 <table width="100%">
   <tr>
-    <td align="left" width="200px">
+    <td align="left" width="350px">
       <b>Languages</b>
     </td>
     <td>
@@ -84,8 +84,6 @@
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <!-- Spaser transparan untuk memaksa tabel melebar full -->
-      <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='1'></svg>" width="100%" height="1" />
     </td>
   </tr>
 
