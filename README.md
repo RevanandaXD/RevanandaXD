@@ -73,7 +73,7 @@
 
 ## Tech Stack
 
-<table>
+<table width="100%">
   <tr>
     <td align="left" width="230px">
       <b>Languages</b>
