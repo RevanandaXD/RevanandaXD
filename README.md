@@ -75,7 +75,7 @@
 
 <table width="100%">
   <tr>
-    <td align="left" width="350px">
+    <td align="left" width="200px">
       <b>Languages</b>
     </td>
     <td>
