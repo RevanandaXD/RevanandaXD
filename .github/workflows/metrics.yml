@@ -18,7 +18,7 @@ jobs:
           template: classic
           config_timezone: Asia/Jakarta
           base: header, activity, community, repositories, metadata
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
 
@@ -40,6 +40,8 @@ jobs:
           plugin_languages_layout: normal
           plugin_languages_limit: 10
           plugin_languages_indepth: yes
+          plugin_languages_skipped: C++, CMake, Swift, Objective-C, Kotlin, C
+          plugin_languages_categories: programming, markup
 
       - uses: lowlighter/metrics@latest
         with:
