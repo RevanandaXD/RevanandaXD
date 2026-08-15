@@ -38,7 +38,7 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RevanandaXD&show_icons=true&theme=dark&hide_border=true&border_radius=10" alt="GitHub Stats" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=RevanandaXD&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RevanandaXD&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
     </td>
   </tr>
 </table>
