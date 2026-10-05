@@ -168,21 +168,6 @@
   </tr>
 </table>
 
----
-
-<!-- CONNECT WITH ME -->
-
-## Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/revananda-islami-pasha-367422350/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/6281225895633">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.youtube.com/@revanandaK9">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="mailto:revanandaislamipasha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
